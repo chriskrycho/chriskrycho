@@ -9,7 +9,6 @@ I’m [Chris Krycho][home]—a follower of Christ, a husband, and a dad. I’m a
 Things I’m currently working on and/or passionate about include:
 
 - top-notch [TypeScript][ts] support for [Ember][ember]
-- [<b><i>re</i>write</b>][rewrite]—an ambitious research writing app
 - theological anthropology
 - the intersection of Christian ethics and emerging technologies
 
