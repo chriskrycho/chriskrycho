@@ -12,8 +12,10 @@ Things I’m currently working on and/or passionate about include:
 - theological anthropology
 - the intersection of Christian ethics and emerging technologies
 
-I’m *not* on Twitter anymore, but I’m always happy to receive [email](mailto:hello@chriskrycho.com)!
+You can find me [on Twitter][twitter]—though [only three days a week][schedule]—but I’m always happiest to receive [email](mailto:hello@chriskrycho.com)!
 
 [ts]: https://www.typescriptlang.org
 [ember]: https://emberjs.com
 [rewrite]: https://rewrite.software
+[twitter]: https://twitter.com/chriskrycho
+[schedule]: https://v5.chriskrycho.com/journal/reluctantly-returning-to-social-media/
