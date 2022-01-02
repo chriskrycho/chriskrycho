@@ -1,10 +1,11 @@
 # Hello!
 
-I’m [Chris Krycho][home]—a follower of Christ, a husband, and a dad. I’m a software engineer by trade; a theologian by vocation; and a writer, runner, podcaster, and occasional composer by hobby. I also cohost and produce [<cite>Winning Slowly</cite>][ws], a podcast about technology, religion, ethics and art; and occasionally write for [<cite>Mere Orthodoxy</cite>][mere-o].
+I’m [Chris Krycho][home]—a follower of Christ, a husband, and a dad. I’m a software engineer by trade; a theologian by vocation; and a writer, runner, podcaster, and occasional composer by hobby. I also occasionally write for [<cite>Mere Orthodoxy</cite>][mere-o]. In the past, I cohosted and produced [<cite>Winning Slowly</cite>][ws], a podcast about technology, religion, ethics and art; and created [New Rustacean][nr], a podcast which taught thousands of people the Rust programming language.
 
 [home]: https://v5.chriskrycho.com
 [ws]: https://winningslowly.org
 [mere-o]: https://mereorthodoxy.com
+[nr]: https://newrustacean.com
 
 Things I’m currently working on and/or passionate about include:
 
