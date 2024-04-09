@@ -13,7 +13,7 @@ Things I’m currently passionate about include:
 - theology proper and theological anthropology
 - the intersection of Christian ethics and emerging technologies
 
-I am also currently looking for a job that checks off some of those boxes—read more in [Next: Role?](https://v5.chriskrycho.com/journal/next/role/)—so feel free to [get in touch](mailto:hello@chriskrycho.com)!
+**I am also currently looking for a job that checks off some of those boxes—read more in [Next: Role?](https://v5.chriskrycho.com/journal/next/role/)—so feel free to [get in touch](mailto:hello@chriskrycho.com)!**
 
 Over the past half decade, I delivered top-notch [TypeScript][ts] support for [LinkedIn][li], including a spec for [Semantic Versioning for TypeScript Types][semver] and drove the [Ember][ember] TypeScript roadmap along with significant parts of Ember’s framework roadmap.
 
