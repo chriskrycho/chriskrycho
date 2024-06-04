@@ -1,8 +1,10 @@
 # Hello!
 
-I’m [Chris Krycho][home]—a follower of Christ, a husband, and a dad. I’m a software engineer by trade; a theologian by vocation; and a writer, runner, and composer by hobby. I am currently working on new material and revisions to _The Rust Programming Language_ book, including a new chapter on async programming in Rust.
+I’m [Chris Krycho][home]—a follower of Christ, a husband, and a dad. I’m a software engineer by trade; a theologian by vocation; and a writer, runner, and composer by hobby.
 
 [home]: https://v5.chriskrycho.com
+
+I am currently working on new material and revisions to _The Rust Programming Language_ book, including a new chapter on async programming in Rust.
 
 Things I’m passionate about include:
 
