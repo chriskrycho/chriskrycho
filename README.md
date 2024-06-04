@@ -4,7 +4,9 @@ I’m [Chris Krycho][home]—a follower of Christ, a husband, and a dad. I’m a
 
 [home]: https://v5.chriskrycho.com
 
-I am currently working on new material and revisions to _The Rust Programming Language_ book, including a new chapter on async programming in Rust.
+I am currently working on new material and revisions to [_The Rust Programming Language_ book][book], including a new chapter on async programming in Rust.
+
+[book]: https://doc.rust-lang.org/book/
 
 Things I’m passionate about include:
 
