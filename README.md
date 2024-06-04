@@ -6,6 +6,8 @@ I’m [Chris Krycho][home]—a follower of Christ, a husband, and a dad. I’m a
 
 I am currently working on new material and revisions to [_The Rust Programming Language_ book][book], including a new chapter on async programming in Rust.
 
+---
+
 [book]: https://doc.rust-lang.org/book/
 
 Things I’m passionate about include:
@@ -16,11 +18,15 @@ Things I’m passionate about include:
 
 **I am also currently looking for a job that checks off some of those boxes—read more in [Next: Role?](https://v5.chriskrycho.com/journal/next/role/)—so feel free to [get in touch](mailto:hello@chriskrycho.com)!**
 
+---
+
 Over the past half decade, I delivered top-notch [TypeScript][ts] support for [LinkedIn][li], including a spec for [Semantic Versioning for TypeScript Types][semver] and drove the [Ember][ember] TypeScript roadmap along with significant parts of Ember’s framework roadmap.
 
-You can sometimes find me on [Bluesky][bluesky], [LinkedIn][li], [Mastodon][mastodon], and [Twitter][twitter]—though only [sometimes][schedule]!—but I’m always happiest to receive [email](mailto:hello@chriskrycho.com). I also occasionally write for [_Mere Orthodoxy_][mere-o].
-
 Previously, I cohosted and produced [_Winning Slowly_][ws], a podcast about technology, religion, ethics and art; and created [_New Rustacean_][nr], a podcast which taught tens of thousands of people [the Rust programming language][rust].
+
+---
+
+You can sometimes find me on [Bluesky][bluesky], [LinkedIn][li], [Mastodon][mastodon], and [Twitter][twitter]—though only [sometimes][schedule]!—but I’m always happiest to receive [email](mailto:hello@chriskrycho.com). I also occasionally write for [_Mere Orthodoxy_][mere-o].
 
 [ts]: https://www.typescriptlang.org
 [semver]: https://www.semver-ts.org
@@ -34,4 +40,4 @@ Previously, I cohosted and produced [_Winning Slowly_][ws], a podcast about tech
 [ws]: https://winningslowly.org
 [mere-o]: https://mereorthodoxy.com
 [nr]: https://newrustacean.com
-[rust]: 
+[rust]: https://www.rust-lang.org
