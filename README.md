@@ -14,9 +14,9 @@ Things I’m passionate about include:
 
 Over the past half decade, I delivered top-notch [TypeScript][ts] support for [LinkedIn][li], including a spec for [Semantic Versioning for TypeScript Types][semver] and drove the [Ember][ember] TypeScript roadmap along with significant parts of Ember’s framework roadmap.
 
-You can sometimes find me on [Bluesky][bluesky], [LinkedIn][li], [Mastodon][mastodon], and [Twitter][twitter]—though only [sometimes][schedule]!—but I’m always happiest to receive [email](mailto:hello@chriskrycho.com). I also occasionally write for [<cite>Mere Orthodoxy</cite>][mere-o].
+You can sometimes find me on [Bluesky][bluesky], [LinkedIn][li], [Mastodon][mastodon], and [Twitter][twitter]—though only [sometimes][schedule]!—but I’m always happiest to receive [email](mailto:hello@chriskrycho.com). I also occasionally write for [_Mere Orthodoxy_][mere-o].
 
-Previously, I cohosted and produced [<cite>Winning Slowly</cite>][ws], a podcast about technology, religion, ethics and art; and created [New Rustacean][nr], a podcast which taught tens of thousands of people [the Rust programming language][rust].
+Previously, I cohosted and produced [_Winning Slowly_][ws], a podcast about technology, religion, ethics and art; and created [_New Rustacean_][nr], a podcast which taught tens of thousands of people [the Rust programming language][rust].
 
 [ts]: https://www.typescriptlang.org
 [semver]: https://www.semver-ts.org
