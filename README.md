@@ -4,13 +4,11 @@ I’m [Chris Krycho][home]—a follower of Christ, a husband, and a dad. I’m a
 
 [home]: https://v5.chriskrycho.com
 
-I am currently working on new material and revisions to [_The Rust Programming Language_ book][book], including a new chapter on async programming in Rust.
+I am currently working on new material and revisions to [_The Rust Programming Language_ book][book], including a new chapter on async programming in Rust. Over the past half decade, I delivered top-notch [TypeScript][ts] support for [LinkedIn][li], including a spec for [Semantic Versioning for TypeScript Types][semver], and drove the [Ember][ember] TypeScript roadmap abd significant parts of Ember’s framework roadmap.
 
----
+Previously, I cohosted and produced [_Winning Slowly_][ws], a podcast about technology, religion, ethics and art; and created [_New Rustacean_][nr], a podcast which taught tens of thousands of people [the Rust programming language][rust].
 
-[book]: https://doc.rust-lang.org/book/
-
-Things I’m passionate about include:
+I am passionate about:
 
 - programming languages and frameworks as tools for improving the reliability and usability of software
 - theology proper and theological anthropology
@@ -20,14 +18,9 @@ Things I’m passionate about include:
 
 ---
 
-Over the past half decade, I delivered top-notch [TypeScript][ts] support for [LinkedIn][li], including a spec for [Semantic Versioning for TypeScript Types][semver] and drove the [Ember][ember] TypeScript roadmap along with significant parts of Ember’s framework roadmap.
-
-Previously, I cohosted and produced [_Winning Slowly_][ws], a podcast about technology, religion, ethics and art; and created [_New Rustacean_][nr], a podcast which taught tens of thousands of people [the Rust programming language][rust].
-
----
-
 You can sometimes find me on [Bluesky][bluesky], [LinkedIn][li], [Mastodon][mastodon], and [Twitter][twitter]—though only [sometimes][schedule]!—but I’m always happiest to receive [email](mailto:hello@chriskrycho.com). I also occasionally write for [_Mere Orthodoxy_][mere-o].
 
+[book]: https://doc.rust-lang.org/book/
 [ts]: https://www.typescriptlang.org
 [semver]: https://www.semver-ts.org
 [ember]: https://emberjs.com
