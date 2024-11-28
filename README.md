@@ -18,7 +18,7 @@ I am passionate about:
 
 ---
 
-You can sometimes find me on [Bluesky][bluesky], [LinkedIn][li], [Mastodon][mastodon], and [Twitter][twitter]—though only [sometimes][schedule]!—but I’m always happiest to receive [email](mailto:hello@chriskrycho.com). I also occasionally write for [_Mere Orthodoxy_][mere-o].
+You can sometimes find me on [Bluesky][bluesky], [LinkedIn][li], and [Mastodon][mastodon]—though only [sometimes][schedule]!—but I’m always happiest to receive [email](mailto:hello@chriskrycho.com). I also occasionally write for [_Mere Orthodoxy_][mere-o].
 
 [book]: https://doc.rust-lang.org/book/
 [ts]: https://www.typescriptlang.org
