@@ -1,5 +1,5 @@
 # These are supported funding model platforms
-github: chriskrycho
+github: [chriskrycho]
 custom:
   - "https://www.buymeacoffee.com/chriskrycho"
   - "https://www.paypal.me/chriskrycho"
