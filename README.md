@@ -1,8 +1,9 @@
 # Hello!
 
-I’m [Chris Krycho][home]—a follower of Christ, a husband, and a dad. I’m a software engineer by trade; a theologian by vocation; and a writer, runner, and composer by hobby.
+I’m [Chris Krycho][home]—a follower of Christ, a husband, and a dad. I’m a software engineer by trade; a theologian and [composer][music] by vocation; and a writer, runner, and erstwhile podcaster by hobby.
 
 [home]: https://v5.chriskrycho.com
+[music]: https://chriskrycho.music
 
 I currently work on the internal developer platform at [Vanta][v], helping make a big TypeScript application faster and better—and thereby helping secure the broader web ecosystem.
 
