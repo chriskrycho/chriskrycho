@@ -5,7 +5,7 @@ I’m [Chris Krycho][home]—a follower of Christ, a husband, and a dad. I’m a
 [home]: https://v5.chriskrycho.com
 [music]: https://chriskrycho.music
 
-I currently work on the internal developer platform at [Vanta][v], helping make a big TypeScript application faster and better—and thereby helping secure the broader web ecosystem.
+I currently lead [Vanta][v]’s platform engineering area, tackling everything from our system architecture to the nitty gritty details of TypeScript monorepo performance and CI/CD.
 
 [v]: https://www.vanta.com
 
